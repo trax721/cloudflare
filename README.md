@@ -7,7 +7,7 @@ It helps one to use the Cloudflare API Documentation, https://api.cloudflare.com
 
 NOTHING in this library can or should be deemed as protected code by any organization.
 
-The functions were developed to return the data from succesful attempts at running python scripts against the Cloudflare API.
+The functions were developed to return the data from succesful attempts against the Cloudflare API.
 
 It will crash/exit a program if there was an unsuccessful call made to the Cloudflare API so that appropriate syntax troubleshooting can be done.
 
