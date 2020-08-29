@@ -5,7 +5,6 @@
 # Last Modified 28 Aug 2020                                                                             #
 #                                                                                                       #
 # Robert Goldstein                                                                                      #
-# Robert.Goldstein@mrcooper.com                                                                         #
 # rsg@pobox.com                                                                                         #
 #                                                                                                       #
 # This is a python library script of various overlay functions used to return CloudFlare outputs back   #
